@@ -1,1 +1,0 @@
-# MTech-AIML-Project_9_Synthetic-Data-Text-Classification-
