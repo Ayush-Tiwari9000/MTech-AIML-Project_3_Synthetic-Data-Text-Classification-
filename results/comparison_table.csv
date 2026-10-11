@@ -1,0 +1,5 @@
+Experiment,Accuracy,Macro-F1,MCC,Training Time (sec)
+Real Only,0.8744,0.5232,0.2297,0.0407
+Real + 25% Synthetic,0.8816,0.5704,0.3168,0.0333
+Real + 50% Synthetic,0.8888,0.6135,0.3856,0.0518
+Real + 100% Synthetic,0.8933,0.6386,0.4234,0.0622
